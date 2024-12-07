@@ -3,4 +3,4 @@ nginx
 #支持指定架构
 yapi:latest
 mysql:latest
-mcr.microsoft.com/mssql/server:2022-latest
+mcr.microsoft.com/mssql/server:2017-latest
