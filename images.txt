@@ -4,3 +4,4 @@ nginx
 yapi:latest
 mysql:latest
 redis:latest
+redis:6
